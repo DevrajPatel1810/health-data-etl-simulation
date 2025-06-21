@@ -44,48 +44,34 @@ The project showcases essential data engineering and analysis skills including d
 - **Visualization**: Matplotlib, Seaborn
 - **Data Modeling**: PCA, KNN imputation, correlation analysis
 
-Key Findings
-Healthcare Data ETL
+##✅ Key Findings
+#Healthcare Data ETL
 Identified and resolved 3,000+ data quality issues across datasets
-
 Implemented automated validation checks for data consistency
-
 Visualized disease trends across demographic dimensions
-
 COVID-19 Analysis
 Reduced dataset dimensionality by 85% while preserving 95% of variance
-
 Identified lognormal distribution as best fit for COVID-19 cases
-
 Discovered strong correlation (r = 0.87) between vaccination rates and case reduction
 
-Dependencies
+##Dependencies
 Python 3.8+
-
 pandas
-
 numpy
-
 matplotlib
-
 seaborn
-
 scikit-learn
-
 scipy
-
 fitter
 
-Future Enhancements
+##✅Future Enhancements
 Implement real-time data validation pipeline
-
 Develop interactive dashboard for health metrics monitoring
-
 Add machine learning models for disease outbreak prediction
-
 Incorporate geospatial analysis of disease spread
 
 ##check few project visuals below: 
+
 <img width="532" alt="image" src="https://github.com/user-attachments/assets/8679717a-9c5d-406b-910d-a2d50713ab9a" />
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/85e89239-041f-48fe-bf62-384bff60fb03" />
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/d6a39e1f-48f3-4c9d-a54c-80b5f385c90b" />
